@@ -1,0 +1,6 @@
+[package]
+name = "qaly"
+version = "0.1.0"
+authors = ["Henco Appel <hencoappel@gmail.com>"]
+
+[dependencies]
